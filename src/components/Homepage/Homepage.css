@@ -1,0 +1,8 @@
+.card {
+    width: 100%;
+  }
+  
+  .card .card-header {
+    background-color: #000;
+    color: #fff;
+  }
